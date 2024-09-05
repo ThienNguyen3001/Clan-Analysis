@@ -9,12 +9,23 @@ With this dataset as a snapshot of the game eco-system as of 2023, you can analy
 In this case, I will focus only on Vietnam, including the following insights:
 * Visualize the distribution of clan points and member levels to identify high-performing clans.
 * Analyze war statistics to find the most successful clans in terms of win streaks, war wins, and ties.
-* Investigate the correlation between clan location and clan popularity (or the countries where Clash of Clans is most popular).
-* Find the countries with the highest-ranked players.
 * Identify the most and least family-friendly clans based on the provided flag.
 * Determine the percentage of clans that focus on the Builder Base or Clan Capital.
 * Analyze the distribution of clans in terms of clan points, clan level, clan capital level, etc.
 ## Analysis
-### Top 20 countries most play COC
-**Which are the top 20 countries that play Clash of Clans the most?**
+### 1. Which are the top 20 countries that play Clash of Clans the most?
+* Although Vietnam is currently "banned" by Supercell, it still ranks in the top 20 countries playing Clash of Clans the most. The main reason is that the majority of Vietnam's population is young, and Vietnamese people still prefer games that are simple yet strategic games.
+<div align = "center">
+  <img src="Images/top 20 countries.png" width="50%">
+</div>
+
+### 2. Family Friendly in Vietnam
+* Most of the Clash of Clans community in Vietnam does not enable the "Family Friendly" mode. The reason is that the majority of younger players in Vietnam tend to dislike games with a more "individual" feel, preferring action-packed, team-oriented games. Additionally, many Vietnamese people are not yet fully aware of the importance of monitoring children's exposure to online games. As a result, clans do not often feel the need to activate this mode.
+<div align = "center">
+  <img src="Images/Family friendly.png" width="50%"></img>
+</div>
+
+### 3. Clan types
+
+
 
