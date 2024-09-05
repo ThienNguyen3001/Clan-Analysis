@@ -14,3 +14,7 @@ In this case, I will focus only on Vietnam, including the following insights:
 * Identify the most and least family-friendly clans based on the provided flag.
 * Determine the percentage of clans that focus on the Builder Base or Clan Capital.
 * Analyze the distribution of clans in terms of clan points, clan level, clan capital level, etc.
+## Analysis
+### Top 20 countries most play COC
+**Which are the top 20 countries that play Clash of Clans the most?**
+
