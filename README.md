@@ -26,6 +26,13 @@ In this case, I will focus only on Vietnam, including the following insights:
 </div>
 
 ### 3. Clan types
+* Do SPC đã không còn cho kênh chat thế giới hoạt động nữa nên nhiều clan nhỏ mới thành lập sẽ có xu hướng để chế độ "Open" hơn. Do đó 
+
+
+
+
+
+
 
 
 
