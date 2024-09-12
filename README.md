@@ -26,10 +26,11 @@ In this case, I will focus only on Vietnam, including the following insights:
 </div>
 
 ### 3. Clan types
-* Do SPC đã không còn cho kênh chat thế giới hoạt động nữa nên nhiều clan nhỏ mới thành lập sẽ có xu hướng để chế độ "Open" hơn. Do đó 
+* Since SPC no longer allows global chat channels to operate, many newly formed clans tend to set their status to "Open" more often. As a result, this group will make up the majority. For clans with more experience and a longer existence, they will set their status to "Invite Only." Meanwhile, "Closed" clans are mostly for veterans who have experience in forming clans and are looking to challenge themselves further.
 
-
-
+<div align = "center">
+  <img src="Images/Types of Clan.png" width="50%"></img>
+</div>
 
 
 
